@@ -16,8 +16,8 @@ export default {
 
   data() {
     return {
-      name: '张博',
-      password: 'zhangbo',
+      name: '',
+      password: '',
     };
   },
   computed: {
